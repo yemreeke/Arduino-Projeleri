@@ -11,7 +11,7 @@
 [![Forks](https://img.shields.io/github/forks/yemreeke/Arduino-Projeleri?style=for-the-badge&logo=github&color=4EA8DE)](https://github.com/yemreeke/Arduino-Projeleri/network/members)
 [![License](https://img.shields.io/github/license/yemreeke/Arduino-Projeleri?style=for-the-badge&color=2E8B57)](LICENSE.md)
 [![Website](https://img.shields.io/badge/Website-bluegrays.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bluegrays.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@bluegrays.ino-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bluegrays.ino/)
+[![Instagram](https://img.shields.io/badge/Instagram-@bluegraysapp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bluegraysapp/)
 
 [<img height="60" src="app-store.png">](https://apps.apple.com/tr/app/arduino-projects-bluegrays/id6502332602)
 [<img height="60" src="google-play.png">](https://play.google.com/store/apps/details?id=com.bluegrays.ino)
@@ -106,7 +106,7 @@ cd "Arduino-Projeleri/001 - Led Yakma"
 | Platform | Bağlantı · Link |
 |---|---|
 | 🌐 Website | **[bluegrays.com](https://bluegrays.com)** |
-| 📸 Instagram | [@bluegrays.ino](https://www.instagram.com/bluegrays.ino/) |
+| 📸 Instagram | [@bluegraysapp](https://www.instagram.com/bluegraysapp/) |
 | 🍎 App Store | [Arduino Projects · BlueGrays](https://apps.apple.com/tr/app/arduino-projects-bluegrays/id6502332602) |
 | 🤖 Google Play | [com.bluegrays.ino](https://play.google.com/store/apps/details?id=com.bluegrays.ino) |
 | 💬 Forum | [bluegrays.com/forum](https://bluegrays.com/forum) |
