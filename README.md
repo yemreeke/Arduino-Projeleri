@@ -66,6 +66,14 @@ This repo holds the code of the first 78 Arduino projects I shared on Instagram.
 
 ---
 
+## BlueGrays IoT kütüphanesi · BlueGrays IoT library
+
+ESP32 ve Raspberry Pi Pico W kartlarını BlueGrays uygulamasından yönetmek için açık kaynak Arduino kütüphanemiz: telefondan lambayı aç, sıcaklığı canlı izle, LED şeridin rengini değiştir. Arduino IDE'de Kütüphane Yöneticisi'nde **BlueGraysIoT** olarak aranabilir.
+
+Our open-source Arduino library for controlling ESP32 and Raspberry Pi Pico W boards from the BlueGrays app: switch a lamp from your phone, watch live sensor values, change your LED strip's color.
+
+[![BlueGraysIoT](https://img.shields.io/badge/GitHub-BlueGraysIoT-00979D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yemreeke/BlueGraysIoT)
+
 ## Ücretsiz elektronik araçları · Free electronics tools
 
 Uygulama indirmeden tarayıcıda kullanabilirsin · Use them in your browser, no install needed:
