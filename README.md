@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="180" src="Logo.png" alt="BlueGrays Logo" />
+<img src="screenshots/banner-tr.jpg" alt="BlueGrays: Arduino, ESP32 ve Raspberry Pi Pico projeleri" width="100%" />
 
 # Arduino Projeleri · Arduino Projects
 
@@ -23,21 +23,48 @@
 
 ---
 
+## Uygulamadan kareler · Screenshots
+
+<p align="center">
+  <img src="screenshots/tr-1.jpg" width="15.5%" alt="200+ proje, kodu ve şeması hazır" />
+  <img src="screenshots/tr-2.jpg" width="15.5%" alt="IoT: kendi cihazını kur, telefondan yönet" />
+  <img src="screenshots/tr-3.jpg" width="15.5%" alt="Blokla başla, gerçek koda geç" />
+  <img src="screenshots/tr-4.jpg" width="15.5%" alt="Her gün 5 soru, haftalık sıralama" />
+  <img src="screenshots/tr-5.jpg" width="15.5%" alt="Adım adım kurulum" />
+  <img src="screenshots/tr-6.jpg" width="15.5%" alt="Devre şeması" />
+</p>
+
+<details>
+<summary><b>English screenshots</b></summary>
+<br />
+<p align="center">
+  <img src="screenshots/en-1.jpg" width="15.5%" alt="200+ projects with code and diagrams" />
+  <img src="screenshots/en-2.jpg" width="15.5%" alt="IoT: build your own device, control it from your phone" />
+  <img src="screenshots/en-3.jpg" width="15.5%" alt="Start with blocks, move to real code" />
+  <img src="screenshots/en-4.jpg" width="15.5%" alt="5 questions a day, weekly ranking" />
+  <img src="screenshots/en-5.jpg" width="15.5%" alt="Step-by-step build" />
+  <img src="screenshots/en-6.jpg" width="15.5%" alt="Circuit diagram" />
+</p>
+</details>
+
+---
+
 ## Bu repo artık BlueGrays'in bir parçası · This repo is now part of BlueGrays
 
-Bu repoda Instagram'da paylaştığım ilk 78 Arduino projesinin kodları duruyor. Projelerin güncel, çok daha geniş ve düzenli hâli artık **[BlueGrays](https://bluegrays.com)** uygulamasında ve web sitesinde. Orada Arduino'nun yanında **ESP32** ve **Raspberry Pi Pico** projeleri, devre şemaları, komponent listeleri, Wokwi simülasyon videoları ve ücretsiz elektronik hesaplama araçları da var.
+Bu repoda Instagram'da paylaştığım ilk 78 Arduino projesinin kodları duruyor. Projelerin güncel, çok daha geniş ve düzenli hâli artık **[BlueGrays](https://bluegrays.com)** uygulamasında ve web sitesinde. Orada Arduino'nun yanında **ESP32** ve **Raspberry Pi Pico** projeleri, devre şemaları, komponent listeleri, Wokwi simülasyon videoları, IoT paneli, günlük sorular ve ücretsiz elektronik hesaplama araçları da var.
 
-This repo holds the code of the first 78 Arduino projects I shared on Instagram. The up-to-date, much larger and organized collection now lives in the **[BlueGrays](https://bluegrays.com)** app and website, which also covers **ESP32** and **Raspberry Pi Pico** projects, circuit diagrams, component lists, Wokwi simulation videos and free electronics calculators.
+This repo holds the code of the first 78 Arduino projects I shared on Instagram. The up-to-date, much larger and organized collection now lives in the **[BlueGrays](https://bluegrays.com)** app and website, which also covers **ESP32** and **Raspberry Pi Pico** projects, circuit diagrams, component lists, Wokwi simulation videos, an IoT dashboard, daily quizzes and free electronics calculators.
 
 <div align="center">
 
 | | |
 |---|---|
-| **160+** proje · projects | Arduino, ESP32, Raspberry Pi Pico |
-| **125+** komponent · components | Pin şemaları, teknik bilgiler · pinouts and specs |
-| **18** ücretsiz araç · free tools | Direnç, LED, 555, op-amp hesaplayıcıları · calculators |
-| **140+** blog yazısı · articles | Başlangıç rehberleri ve sorun çözümleri · guides and fixes |
-| **6** dil · languages | TR, EN, DE, ES, FR, IT |
+| **220+** proje · projects | Arduino, ESP32, Raspberry Pi Pico |
+| **130+** komponent · components | Pin şemaları, teknik bilgiler · pinouts and specs |
+| **400+** soru · quiz questions | Her gün 5 soru, haftalık XP ligi · 5 a day, weekly XP league |
+| **36** ders kartı · lessons | Arduino C++ ve MicroPython kod rehberi · code guide |
+| **230+** blog yazısı · articles | Başlangıç rehberleri ve sorun çözümleri · guides and fixes |
+| **10** dil · languages | TR, EN, DE, ES, FR, IT, PT, JA, ID, RU |
 
 </div>
 
@@ -49,6 +76,10 @@ This repo holds the code of the first 78 Arduino projects I shared on Instagram.
 |---|---|
 | **Proje kütüphanesi:** Başlangıçtan ileri seviyeye Arduino, ESP32 ve Raspberry Pi Pico projeleri; kod, devre şeması, malzeme listesi ve sorun giderme | **Project library:** Arduino, ESP32 and Raspberry Pi Pico projects from beginner to advanced, with code, circuit diagram, parts list and troubleshooting |
 | **Simülasyon videoları:** Projelerin çalışan hâli Wokwi simülasyonuyla, adım adım | **Simulation videos:** Every project shown working in a Wokwi simulation |
+| **IoT paneli:** ESP32 ya da Pico W kartını Wi-Fi ile bağla; telefondan anahtar, kaydırıcı, renk seçici ve canlı grafiklerle yönet | **IoT dashboard:** Connect your ESP32 or Pico W over Wi-Fi and control it from your phone with switches, sliders, color pickers and live charts |
+| **Günün soruları ve XP ligi:** Her gün 5 soru çöz, XP topla, haftalık sıralamada yüksel | **Daily questions and XP league:** Solve 5 questions a day, earn XP and climb the weekly ranking |
+| **Kod rehberi:** Arduino C++ ve MicroPython'u kısa ders kartları ve mini testlerle öğren | **Code guide:** Learn Arduino C++ and MicroPython with short lesson cards and mini tests |
+| **Blok kodlama:** Projenin kodunu bloklarla gör, sonra gerçek koda geç | **Block coding:** See a project's code as blocks, then move on to real code |
 | **Komponent rehberi:** Sensörler, ekranlar, motorlar ve modüller; pin şemaları ve kullanım örnekleri | **Component guide:** Sensors, displays, motors and modules with pinouts and examples |
 | **Elimdekilerle ne yaparım:** Atölyene parçalarını ekle, onlarla yapabileceğin projeleri gör | **What can I build:** Add the parts you own and see the projects you can make |
 | **Elektronik araçları:** Direnç renk kodu, Ohm kanunu, LED direnci, gerilim bölücü, 555 zamanlayıcı, transistör bacakları ve daha fazlası | **Electronics tools:** Resistor color code, Ohm's law, LED resistor, voltage divider, 555 timer, transistor pinouts and more |
